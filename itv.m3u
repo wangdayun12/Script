@@ -1,4 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.iill.top/epg"
+央视频道,#genre#
 #EXTINF:-1 ,CCTV1
 http://gslbserv.itv.cmvideo.cn:80/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=IPTV
 #EXTINF:-1 ,CCTV2
@@ -43,6 +44,7 @@ http://gslbserv.itv.cmvideo.cn:80/7114647837765104058/1.m3u8?channel-id=hnbblive
 http://gslbserv.itv.cmvideo.cn:80/5000000002000002652/1.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=IPTV
 #EXTINF:-1 ,CETV4
 http://gslbserv.itv.cmvideo.cn:80/5000000011000031126/1.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=IPTV
+卫视频道,#genre#
 #EXTINF:-1 ,北京卫视
 http://gslbserv.itv.cmvideo.cn:80/6000000001000020451/1.m3u8?channel-id=wasusyt&Contentid=6000000001000020451&livemode=1&stbId=IPTV
 #EXTINF:-1 ,北京纪实科技
